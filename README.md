@@ -33,3 +33,6 @@ The **mLSTM (Matrix Memory)** model significantly outperformed all other archite
 1. Clone the repository:
    ```bash
    git clone [https://github.com/NickBisbi/Gold-Price-Forecasting-xLSTM.git](https://github.com/NickBisbi/Gold-Price-Forecasting-xLSTM.git)
+
+Install the required dependencies:
+pip install -r requirements.txt
